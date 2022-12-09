@@ -1,2 +1,3 @@
 std_msgs/Header header
-PID PIDs
+PID PID_kiri
+PID PID_kanan
